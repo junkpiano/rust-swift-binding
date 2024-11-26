@@ -1,0 +1,10 @@
+[package]
+name = "munchausen"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "munchausen"
+crate-type = ["staticlib"]
+
+[dependencies]
